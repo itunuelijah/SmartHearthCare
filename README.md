@@ -1,6 +1,6 @@
 SmartHealthCare
 
-Backend implementation of the Smart Healthcare Appointment and Prescription Management System with Integrated Patient Support Services — a Postgraduate Diploma (PGD) research project in Computer Science, National Open University of Nigeria (NOUN).
+Backend implementation of the Smart Healthcare Appointment and Prescription Management System with Integrated Patient Support Services — a Postgraduate Diploma (PGD) research project.
 
 This repository contains the working backend built to validate the conceptual design and system architecture presented in the accompanying thesis (Chapter Three: Methodology). It is a reference implementation accompanying a conceptual research framework; scenario-based performance figures reported in the thesis remain literature-derived projections and have not been empirically measured against this implementation.
 
@@ -83,7 +83,7 @@ Getting Started
 Prerequisites
 
 
-.NET 8 SDK
+.NET 9 SDK
 MySQL 8.0
 ABP CLI (dotnet tool install -g Volo.Abp.Cli)
 Node.js (only required if/when the Angular client is added)
